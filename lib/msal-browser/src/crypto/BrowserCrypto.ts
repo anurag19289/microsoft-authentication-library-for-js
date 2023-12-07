@@ -84,7 +84,7 @@ export function getRandomValues(dataBuffer: Uint8Array): Uint8Array {
  * @returns
  */
 export function createNewGuid(): string {
-    return window.crypto.randomUUID();
+    return "abcd-abcdd-dssdssd-ssdsdsd-assdewew";
 }
 
 /**
